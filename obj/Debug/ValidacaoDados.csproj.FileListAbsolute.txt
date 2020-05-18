@@ -1,0 +1,6 @@
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\ValidacaoDados\bin\Debug\ValidacaoDados.exe.config
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\ValidacaoDados\bin\Debug\ValidacaoDados.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\ValidacaoDados\bin\Debug\ValidacaoDados.pdb
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\ValidacaoDados\obj\Debug\ValidacaoDados.csprojAssemblyReference.cache
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\ValidacaoDados\obj\Debug\ValidacaoDados.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\ValidacaoDados\obj\Debug\ValidacaoDados.pdb
