@@ -79,6 +79,13 @@ namespace ValidacaoDados
                     estadoCivil = Console.ReadLine();
                 }
 
+            RetornoInformacoes(nome, idade, salario, sexo, estadoCivil);
+
+            Console.ReadLine();
+        }
+
+        public static void RetornoInformacoes(string nome, int idade, int salario, string sexo, string estadoCivil)
+        {
             Console.WriteLine("Informações Pessoais: \n" +
                 "Nome: " + nome + "\n" +
                 "Idade: " + idade + "\n" +
@@ -86,8 +93,7 @@ namespace ValidacaoDados
                 "Sexo: " + sexo + "\n" +
                 "Estado Civíl: " + estadoCivil + "\n"
                 );
-
-            Console.ReadLine();
         }
     }
+
 }
